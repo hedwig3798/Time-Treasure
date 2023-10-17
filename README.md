@@ -4,6 +4,14 @@
 
 ---
 
+# 데모
+### 영상 데모   
+https://youtu.be/W3y2iZdLPys
+### 실행 파일   
+Release를 확인해 주세요
+
+---
+
 # 프로젝트 소개
 
 - 기간
@@ -25,6 +33,11 @@
     &nbsp;&nbsp;&nbsp;Window API
     
     &nbsp;&nbsp;&nbsp;fmod
+
+---
+
+# More
+https://www.notion.so/Daily-Scrum_-a4cf43a54a6b48cb85a2b3ca7a515888
 
 ---
 
