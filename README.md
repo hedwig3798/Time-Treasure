@@ -8,23 +8,23 @@
 
 - 기간
     
-    시작 : 2023 / 05 / 12
+  &nbsp;&nbsp;&nbsp;시작 : 2023 / 05 / 12
     
-    최종 릴리즈 : 2023 / 05 / 26
+    &nbsp;&nbsp;&nbsp;최종 릴리즈 : 2023 / 05 / 26
     
 - 개발환경
     
-    IDLE : Visual Studio 2022
+    &nbsp;&nbsp;&nbsp;IDLE : Visual Studio 2022
     
-    협업 : SVN / Discord
+    &nbsp;&nbsp;&nbsp;협업 : SVN / Discord
     
 - 언어 및 라이브러리
     
-    C++
+   &nbsp;&nbsp;&nbsp;C++
     
-    Window API
+    &nbsp;&nbsp;&nbsp;Window API
     
-    fmod
+    &nbsp;&nbsp;&nbsp;fmod
 
 ---
 
@@ -32,22 +32,22 @@
 
 **프로그래밍**
 
-김형환 : 팀장 / 컨텐츠
+&nbsp;&nbsp;&nbsp;김형환 : 팀장 / 컨텐츠
 
-이건재 : 게임 엔진 / 툴
+&nbsp;&nbsp;&nbsp;이건재 : 게임 엔진 / 툴
 
-이현장 : UI 
+&nbsp;&nbsp;&nbsp;이현장 : UI 
 
-임성균 : 그래픽 엔진
+&nbsp;&nbsp;&nbsp;임성균 : 그래픽 엔진
 
 **기획**
 
-최지영 : 총괄 기획자
+&nbsp;&nbsp;&nbsp;최지영 : 총괄 기획자
 
-최승수 : 보조 기획자
+&nbsp;&nbsp;&nbsp;최승수 : 보조 기획자
 
 **아트**
 
-박한나
+&nbsp;&nbsp;&nbsp;박한나
 
-정수빈
+&nbsp;&nbsp;&nbsp;정수빈
