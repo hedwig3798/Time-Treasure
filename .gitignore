@@ -34,3 +34,10 @@ pycache/
 *.rej
 *.swp
 *.DS_Store
+.vs/
+
+*.pur
+*.aseprite
+*.gif
+*.psd
+*.zip
